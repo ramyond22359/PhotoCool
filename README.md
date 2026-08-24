@@ -36,13 +36,20 @@
 2. 雙擊開啟 `.exe` 檔案。
 3. 將照片資料夾**拖曳進視窗內**，按下 `Enter` 即可完成！
 
-**方案 B：執行 Python 原始碼 (開發者)**
+**方案 B：執行 Python 原始碼 (Windows / Linux)**
 1. 確保電腦已安裝 **Python 3.8+**。
-2. 開啟終端機執行：
+2. 開啟命令提示字元 (CMD) 或 Terminal 執行：
 
 ```bash
 python split_duplicates.py
 ```
+**方案 C：macOS 使用者**
+1. 開啟終端機 (Terminal)。
+2. 執行：
+```bash
+python3 split_duplicates.py
+```
+3.將照片資料夾拖入終端機，按下 Enter 即可。
 ### 🛠️ 開發與打包 / Developer Guide
 
 ```bash
