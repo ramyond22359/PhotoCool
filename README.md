@@ -49,7 +49,8 @@ python split_duplicates.py
 ```bash
 python3 split_duplicates.py
 ```
-3.將照片資料夾拖入終端機，按下 Enter 即可。
+3. 將照片資料夾拖入終端機，按下 Enter 即可。
+
 ### 🛠️ 開發與打包 / Developer Guide
 
 ```bash
