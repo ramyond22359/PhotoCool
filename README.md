@@ -41,14 +41,14 @@
 2. 開啟命令提示字元 (CMD) 或 Terminal 執行：
 
 ```bash
-python split_duplicates.py
+python photocool.py
 ```
 **方案 C：macOS 使用者**
 1. 開啟終端機 (Terminal)。
 2. 輸入 `cd `（後方加一空格），將專案資料夾拖入終端機並按 `Enter`。
 3. 執行：
 ```bash
-python3 split_duplicates.py
+python3 photocool.py
 ```
 4. 將照片資料夾拖入終端機，按下 Enter 即可。
 
@@ -59,7 +59,7 @@ python3 split_duplicates.py
 py -m pip install pyinstaller
 
 # 2. 一鍵打包成單一執行檔
-py -m PyInstaller --onefile --name "Leaf" split_duplicates.py
+py -m PyInstaller --onefile --name "Leaf" photocool.py
 ```
 ###📜 授權條款 / License
 本專案採用 MIT License 開源授權。
