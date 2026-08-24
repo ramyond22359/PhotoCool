@@ -45,11 +45,12 @@ python split_duplicates.py
 ```
 **方案 C：macOS 使用者**
 1. 開啟終端機 (Terminal)。
-2. 執行：
+2. 輸入 `cd `（後方加一空格），將專案資料夾拖入終端機並按 `Enter`。
+3. 執行：
 ```bash
 python3 split_duplicates.py
 ```
-3. 將照片資料夾拖入終端機，按下 Enter 即可。
+4. 將照片資料夾拖入終端機，按下 Enter 即可。
 
 ### 🛠️ 開發與打包 / Developer Guide
 
