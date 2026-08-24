@@ -26,3 +26,31 @@
 📁 您的照片資料夾 (Your Photo Directory)
  ├── 🟢 已過濾_無重複圖片/   <-- 保留 1 張原檔 (Clean Photos)
  └── 🔴 已分流_重複照片/     <-- 所有多餘的重複檔 (Duplicate Photos)
+```
+## Part 2: 使用與開發說明 / Guide & Development
+
+### 🚀 快速開始 / Quick Start
+
+**方案 A：下載 `.exe` 執行檔 (推薦一般使用者)**
+1. 前往 **[Releases 頁面](https://github.com/ramyond22359/duplicate-photo-sorter/releases)** 下載最新版的 `照片重複比對分流工具.exe`。
+2. 雙擊開啟 `.exe` 檔案。
+3. 將照片資料夾**拖曳進視窗內**，按下 `Enter` 即可完成！
+
+**方案 B：執行 Python 原始碼 (開發者)**
+1. 確保電腦已安裝 **Python 3.8+**。
+2. 開啟終端機執行：
+
+```bash
+python split_duplicates.py
+```
+### 🛠️ 開發與打包 / Developer Guide
+
+```bash
+# 1. 安裝 PyInstaller
+py -m pip install pyinstaller
+
+# 2. 一鍵打包成單一執行檔
+py -m PyInstaller --onefile --name "照片重複比對分流工具" split_duplicates.py
+```
+###📜 授權條款 / License
+本專案採用 MIT License 開源授權。
