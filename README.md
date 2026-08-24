@@ -32,7 +32,7 @@
 ### 🚀 快速開始 / Quick Start
 
 **方案 A：下載 `.exe` 執行檔 (推薦一般使用者)**
-1. 前往 **[Releases 頁面](https://github.com/ramyond22359/duplicate-photo-sorter/releases)** 下載最新版的 `照片重複比對分流工具.exe`。
+1. 前往 **[Releases 頁面](https://github.com/ramyond22359/duplicate-photo-sorter/releases)** 下載最新版的 `PhotoCull.exe`。
 2. 雙擊開啟 `.exe` 檔案。
 3. 將照片資料夾**拖曳進視窗內**，按下 `Enter` 即可完成！
 
