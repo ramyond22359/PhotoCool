@@ -57,7 +57,7 @@ python3 split_duplicates.py
 py -m pip install pyinstaller
 
 # 2. 一鍵打包成單一執行檔
-py -m PyInstaller --onefile --name "DPS" split_duplicates.py
+py -m PyInstaller --onefile --name "Leaf" split_duplicates.py
 ```
 ###📜 授權條款 / License
 本專案採用 MIT License 開源授權。
