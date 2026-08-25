@@ -1,4 +1,4 @@
-# 📸 重複照片自動分流工具 <br> PhotoCool
+# 📸 重複照片自動分流工具 <br> PhotoCool（Cull）
 
 <p align="left">
   <a href="https://github.com/ramyond22359/duplicate-photo-sorter/releases"><img src="https://img.shields.io/badge/Download-.exe%20v1.0.0-blue?style=for-the-badge&logo=windows&logoColor=white" /></a>
